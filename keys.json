@@ -1,1 +1,9 @@
+{
+    null : {
+        "username": null,
+        "expiry": null,
+        "hash": null,
+        "hwid": null
+    }
+}
 
