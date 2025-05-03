@@ -10,5 +10,11 @@
         "expiry": "2362-06-10",
         "hash": "104689e345ab403bccee08a4271b99a752c3a57dd2744433d74fc7f89ce902b1",
         "hwid": "4363c0ad5492beebca92f4ea6176ecee70dbb03962cd58e4cd9cb8f97f58ce93"
+    },
+    "2bc0ded416210ab862a74a5abe5f8387": {
+        "username": "1",
+        "expiry": "2025-05-05",
+        "hash": "6beb69ab25a492d812f939bc7e73e44d29f6fc6824c89344d23be6759fbde1c5",
+        "hwid": null
     }
 }
