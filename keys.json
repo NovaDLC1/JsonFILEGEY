@@ -1,7 +1,12 @@
 {
-"e27b88398bf5b1567193ab4662df182d": {
+    "e27b88398bf5b1567193ab4662df182d": {
         "username": "P1nkdev",
         "expiry": "2060-12-06",
         "hash": "1baf136ba4bc57c8f79d1f7fdf861787d70e5c944db26136afbf1f87cbcd8144"
+    },
+    "a15cb81c53d157e5082aab76ee0a93f3": {
+        "username": "dev",
+        "expiry": "2025-05-05",
+        "hash": "ccd551ee11375ba586b647ffc296a7eb99ff18d7559a9d7be0a6082e342d320a"
     }
 }
