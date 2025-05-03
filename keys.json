@@ -8,5 +8,10 @@
         "username": "dev",
         "expiry": "2025-05-05",
         "hash": "ccd551ee11375ba586b647ffc296a7eb99ff18d7559a9d7be0a6082e342d320a"
+    },
+    "4b8abbb3fe5075a3c2ec5dc25926e43a": {
+        "username": "NovaDLC",
+        "expiry": "3395-09-04",
+        "hash": "8b9990139e88350ed2d61b38bd38285347c97d623685b98683cad82ba319ce83"
     }
 }
