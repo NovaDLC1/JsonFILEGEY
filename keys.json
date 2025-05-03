@@ -9,6 +9,6 @@
         "username": "nova",
         "expiry": "2025-05-14",
         "hash": "6de25847863262506d9db008eff8cb17d6de15243b142106b14e13b32ab9b3cb",
-        "hwid": "1"
+        "hwid": null
     }
 }
