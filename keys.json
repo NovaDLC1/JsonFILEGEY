@@ -1,17 +1,8 @@
 {
     "e27b88398bf5b1567193ab4662df182d": {
-        "username": "P1nkdev",
+        "username": "p1nkdev",
         "expiry": "2060-12-06",
-        "hash": "1baf136ba4bc57c8f79d1f7fdf861787d70e5c944db26136afbf1f87cbcd8144"
-    },
-    "a15cb81c53d157e5082aab76ee0a93f3": {
-        "username": "dev",
-        "expiry": "2025-05-05",
-        "hash": "ccd551ee11375ba586b647ffc296a7eb99ff18d7559a9d7be0a6082e342d320a"
-    },
-    "4b8abbb3fe5075a3c2ec5dc25926e43a": {
-        "username": "NovaDLC",
-        "expiry": "3395-09-04",
-        "hash": "8b9990139e88350ed2d61b38bd38285347c97d623685b98683cad82ba319ce83"
+        "hash": "1baf136ba4bc57c8f79d1f7fdf861787d70e5c944db26136afbf1f87cbcd8144",
+        "hwid": ""
     }
 }
