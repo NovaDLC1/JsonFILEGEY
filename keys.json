@@ -28,5 +28,11 @@
         "expiry": "2030-10-25",
         "hash": "4edf2a97ef9b2bdae8328c4a0ea02008a293b82c7e7c16a377bbee86d92b0f4f",
         "hwid": null
+    },
+    "novadlcowner": {
+        "username": "p1nk",
+        "expiry": "2041-10-07",
+        "hash": "784e34fee4b0c98fb9d960cb30ac0054f21574d48b53639956149a86b393f231",
+        "hwid": null
     }
 }
