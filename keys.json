@@ -40,5 +40,11 @@
         "expiry": "2362-06-10",
         "hash": "8eeb306d050423dedc809aac1af60ed65f5eec6526fec58370bda2261d6c1b70",
         "hwid": "4363c0ad5492beebca92f4ea6176ecee70dbb03962cd58e4cd9cb8f97f58ce93"
+    },
+    "oner1234": {
+        "username": "oner",
+        "expiry": "2041-10-08",
+        "hash": "4f21d270015d7de0dc8b33b066f3acc9402943fc4b44cd1f389f9371428fad43",
+        "hwid": null
     }
 }
