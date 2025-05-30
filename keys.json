@@ -1,11 +1,4 @@
 {
-    "null": {
-        "username": "null",
-        "UID": "null",
-        "hwid": "null",
-        "expiry": "null",
-        "hash": "null"
-    },
     "12341234": {
         "username": "123",
         "UID": "1",
