@@ -1,50 +1,9 @@
 {
     "null": {
-        "username": null,
-        "expiry": null,
-        "hash": null,
-        "hwid": null
-    },
-    "4600c4e7274509fd6897dd0be98513d3": {
-        "username": "p1nk123123",
-        "expiry": "2362-06-10",
-        "hash": "104689e345ab403bccee08a4271b99a752c3a57dd2744433d74fc7f89ce902b1",
-        "hwid": "4363c0ad5492beebca92f4ea6176ecee70dbb03962cd58e4cd9cb8f97f58ce93"
-    },
-    "2bc0ded416210ab862a74a5abe5f8387": {
-        "username": "1",
-        "expiry": "2025-05-05",
-        "hash": "6beb69ab25a492d812f939bc7e73e44d29f6fc6824c89344d23be6759fbde1c5",
-        "hwid": null
-    },
-    "2f3697d3269a4a437d21a99046da9313": {
-        "username": "12",
-        "expiry": "2025-05-16",
-        "hash": "39c1422b081896470b70b9f1c15bcec9fff07b0cc6df68d75b62bc711923904c",
-        "hwid": "4363c0ad5492beebca92f4ea6176ecee70dbb03962cd58e4cd9cb8f97f58ce93"
-    },
-    "123456uu": {
-        "username": "123123",
-        "expiry": "2030-10-25",
-        "hash": "4edf2a97ef9b2bdae8328c4a0ea02008a293b82c7e7c16a377bbee86d92b0f4f",
-        "hwid": null
-    },
-    "novadlcowner": {
-        "username": "p1nk",
-        "expiry": "2041-10-07",
-        "hash": "784e34fee4b0c98fb9d960cb30ac0054f21574d48b53639956149a86b393f231",
-        "hwid": "4363c0ad5492beebca92f4ea6176ecee70dbb03962cd58e4cd9cb8f97f58ce93"
-    },
-    "12345678": {
-        "username": "123",
-        "expiry": "2362-06-10",
-        "hash": "8eeb306d050423dedc809aac1af60ed65f5eec6526fec58370bda2261d6c1b70",
-        "hwid": "4363c0ad5492beebca92f4ea6176ecee70dbb03962cd58e4cd9cb8f97f58ce93"
-    },
-    "oner1234": {
-        "username": "oner",
-        "expiry": "2041-10-08",
-        "hash": "4f21d270015d7de0dc8b33b066f3acc9402943fc4b44cd1f389f9371428fad43",
-        "hwid": null
+        "username": "null",
+        "UID": "null",
+        "hwid": "null",
+        "expiry": "null",
+        "hash": "null"
     }
 }
