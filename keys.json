@@ -5,5 +5,12 @@
         "hwid": "null",
         "expiry": "null",
         "hash": "null"
+    },
+    "12341234": {
+        "username": "123",
+        "UID": "1",
+        "hwid": null,
+        "expiry": "2028-02-24",
+        "hash": "3ec766f44d2238c1b29ec7fe2c3f9125de79af2f4214f5c173357a0431c82f04"
     }
 }
